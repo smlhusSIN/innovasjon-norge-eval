@@ -1,0 +1,68 @@
+#### 🔹 Nyhetsverdi
+1. Hvor godt er problemet/behovet/dagens situasjon beskrevet, inkludert dagens alternative løsninger?
+2. Hvor god er løsningsbeskrivelsen beskrevet og er den tydelig avgrenset?
+3. Hvor godt er FoU-utfordringer knyttet til løsningen beskrevet?
+4. Hvor godt er det forklart hvorfor FoU-utfordringer ikke er løst tidligere?
+5. Hvor godt er dagens konkurrenter og konkurransebilde beskrevet?
+6. Hvor godt beskrevet er forskjellene og forbedringene fra dagens alternativer?
+7. Hvor tydelig er de unike aspekene ved løsningen beskrevet?
+
+#### 🔹 Verdiskapning
+1. Hvor godt er den kortsiktige effekten av prosjektresultatet for selskapet beskrevet?
+2. Hvor godt er den langsiktige effekten av prosjektresultatet for selskapet beskrevet?
+3. Hvor tydelig er det at prosjektet bygger opp under selskapets langsiktige ambisjon og strategi?
+4. Hvor godt er verdiskapningen for samfunnet beskrevet?
+5. Hvor godt er miljøgevinsten beskrevet?
+6. Hvor godt er gevinster som bærekraft, likestilling og mangfold beskrevet?
+7. Hvor troverdig fremstår markedsbeskrivelsen, i både nasjonalt og internasjonalt perspektiv?
+8. Hvor tydelig og realistisk er forretningsmodellen beskrevet?
+9. Hvor godt er kundeverdien beskrevet?
+10. Hvor godt er interaksjon med kunder beskrevet som en del av prosjektet?
+
+#### 🔹 Gjennomføringsevne
+1. Hvor godt er selskapets nåværende situasjon, målsetning og strategi beskrevet?
+2. Hvor tydelig og avgrenset er prosjektet beskrevet?
+3. Hvor godt er aktivitetene/arbeidspakkene i prosjektet beskrevet?
+4. Hvor godt er roller og ansvar beskrevet?
+5. For FoU-utfordringer i prosjektet, hvor godt er håndteringen av disse beskrevet?
+6. Hvor godt er teamets og selskapets erfaring og kompetanse beskrevet?
+7. Hvis partnere eller kunder er involvert, hvor godt er deres rolle og bidrag beskrevet?
+8. Hvor gode forutsetninger har selskapet for å gjennomføre en go-to-market-plan?
+9. Hvis leverandører er involvert, hvor godt er deres rolle og fortrinn beskrevet?
+10. Hvor godt er finansieringsplanen under og etter prosjektet beskrevet?
+11. Hvor godt kommer det frem at selskapet har spesifikke fortrinn for å forvalte støtten?
+
+#### 🔹 Utløsende effekt av støtte
+1. Hvor godt kommer det frem at prosjektet er avhengig av støtte/lån fra Innovasjon Norge?
+2. Hvor godt er teknisk risiko beskrevet?
+3. Hvor godt er markeds-/kommersiell risiko beskrevet?
+4. Hvor godt er klimarisiko beskrevet?
+5. Er risikoen stor nok til at prosjektet ikke er bank-/investorklart uten støtte?
+6. Hvor godt er scenarioer med og uten støtte fra Innovasjon Norge beskrevet?
+7. Er potensielle investorer navngitt og dokumentert?
+8. Kommer det frem at det finnes kunder som vil kjøpe gitt støtte?
+9. Hvordan er markedssituasjonen beskrevet, og hvordan kan IN støtte posisjoneringen?
+
+#### 🔹 Søknadsutforming og detaljer
+1. Svarer søknaden på alle krav fra Innovasjon Norges portal?
+2. Er språket korrekturlest og fri for feil? (Nei = 0, Ja = 3)
+3. Hvor overbevisende/tillitsvekkende er språket i søknaden?
+4. Hvor konsist og tydelig er språket?
+5. Hvor godt er "buzzwords" unngått?
+6. Hvor godt er påstander støttet med kilder?
+7. Er timesatser i tråd med INs grenser? (Nei = 0, Ja = 3)
+8. Er støttegrad tilpasset aktivitetene? (Nei = 0, Ja = 3)
+9. Hvis det søkes lån, er sikkerhet godt dokumentert?
+10. Er tall dobbeltsjekket mot prosjektoppsett?
+
+#### 🔹 Vedlegg (Ja = 3, Nei = 0)
+1. Siste års regnskap
+2. Perioderegnskap, nyere enn 3 måneder
+3. Driftsbudsjett neste 3 år
+4. Budsjett/lønnsomhetsberegning
+5. Selskapspresentasjon
+6. Prosjektpresentasjon
+7. Organisasjonskart inkl. CV'er
+8. Kundeavtaler eller LOI
+9. Termsheet/intensjonsavtale med investor
+10. Excel-vedlegg sendt i originalformat
